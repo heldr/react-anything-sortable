@@ -68,7 +68,7 @@ A modern usage would be
 
 ```javascript
 import React from 'react';
-import { SortableContainer } from 'react-anything-sortable';
+import { sortable, SortableContainer } from 'react-anything-sortable';
 
 @sortable
 class SortableItem extends React.Component {
